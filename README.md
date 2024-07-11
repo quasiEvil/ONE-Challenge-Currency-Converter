@@ -8,6 +8,8 @@
 ## Conversor de Moedas
 Este aplicativo Java permite aos usuários converter entre diferentes moedas usando taxas de câmbio em tempo real obtidas da ExchangeRate-API. Ele oferece uma interface de menu fácil de usar para selecionar opções de conversão.
 
+![Conversor de moedas badge](https://github.com/quasiEvil/ONE-Challenge-Currency-Converter/assets/140989367/59696610-d091-4984-90a5-b5573c462d26)
+
 👩🏻‍🎓 [Certificado de conclusão](https://cursos.alura.com.br/certificate/quasiEvil/praticando-java-construindo-conversor-moedas)
 
 ## Funcionalidades
@@ -41,3 +43,4 @@ exchange.rate.api.key=sua_chave_api_aqui
 - O aplicativo exibirá o valor convertido com base nas taxas de câmbio em tempo real.
 
 ## Demo
+![Java-CurrencyConverter](https://github.com/quasiEvil/ONE-Challenge-Currency-Converter/assets/140989367/f21be7af-ed04-4c70-a1d4-4f999f7c4e86)
