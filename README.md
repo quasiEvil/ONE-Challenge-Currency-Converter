@@ -26,7 +26,7 @@ Este aplicativo Java permite aos usuários converter entre diferentes moedas usa
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-nome/conversor-de-moedas.git
+git clone https://github.com/quasiEvil/ONE-Challenge-Currency-Converter.git
 ```
 2. Abra o projeto no IntelliJ IDEA ou na sua IDE Java preferida.
 
